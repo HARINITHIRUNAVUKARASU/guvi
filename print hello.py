@@ -1,4 +1,4 @@
-N=1
-while(N<=2):
+a=1
+while(a<=2):
   print("\nHello",end=="")
-  N=N+1
+  a=a+1
